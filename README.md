@@ -3,6 +3,8 @@ Contains various NLP side projects.
 
 ## Libraries
 - [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html)
+- [Streamlit](https://streamlit.io/)
+- [LangChain](https://www.langchain.com/)
 
 ## References:
 - Prompt Engineering. (2023, May 19). Langchain: PDF Chat App (GUI) | ChatGPT for Your PDF FILES | Step-by-Step Tutorial. www.youtube.com. https://www.youtube.com/watch?v=RIWbalZ7sTo
