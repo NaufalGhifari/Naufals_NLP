@@ -1,425 +1,97 @@
-Letter
-of
-Interest
-for
-ASEAN
-Centre
-for
-Energy
-Renewable
-Energy
-(RECAP)
-Intern
-Muhammad
-Naufal
-Al
-Ghifari
-09/01/2023
-+62
-81188844321
-Jakarta,
-Indonesia
-naufalavalist@gmail.com
-https://naufalghifari.github.io/naufal-personal-website/#portfolio
-Dear
-Hiring
-Officer
-at
-ACE,
-I
-am
-writing
-this
-letter
-to
-express
-my
-strong
-interest
-in
-taking
-part
-in
-the
-internship
-opportunity
-at
-the
-ASEAN
-Centre
-for
-Energy
-as
-a
-Renewable
-Energy
-Intern
-for
-the
-Feb-May
-2024
-period.
-I
-hold
-a
-Diploma
-of
-IT
-from
-Curtin
-College
-and
-am
-currently
-pursuing
-my
-bachelor’s
-degree
-BSc.
-Computer
-Science
-at
-University
-of
-London
-through
-distance
-learning
-from
-Jakarta;
-I
-am
-in
-my
-last
-semester
-and
-my
-specialization
-is
-‘Artificial
-Intelligence
-and
-Machine
-Learning’.
-Throughout
-my
-studies,
-especially
-in
-the
-last
-2
-semesters
-I
-discovered,
-learned,
-and
-experimented
-with
-various
-data
-science
-techniques
-and
-machine
-learning
-models.
-This
-ties
-in
-well
-with
-my
-other
-interest,
-which
-is
-the
-dynamics
-between
-geopolitics
-and
-the
-energy
-sector;
-I
-find
-that
-these
-two
-fields
-are
-very
-closely
-related
-as
-the
-power
-struggle
-in
-the
-world
-stage
-is
-dictated
-by
-who
-controls
-the
-energy.
-I
-have
-always
-been
-naturally
-interested
-in
-the
-field
-of
-world
-energy.
-In
-fact,
-the
-study
-case
-for
-one
-of
-my
-assignments
-was
-“Using
-Linear
-Regression
-(LR)
-Model
-to
-Predict
-Electricity
-Price
-in
-Germany”.
-In
-brief,
-I
-aggregated
-various
-energy
-production
-and
-consumption
-data
-from
-Eurostat
-and
-trained
-a
-supervised
-machine
-learning
-model
-to
-predict
-the
-price
-given
-a
-set
-of
-factors
-such
-as
-import,
-export,
-availability,
-etc.
-Some
-key
-findings
-of
-the
-aforementioned
-project
-includes:
-1.
-A
-satisfactory
-LR
-model
-is
-achievable
-even
-with
-limited
-data.
-2.
-At
-a
-household
-level,
-there
-is
-no
-correlation
-between
-energy
-consumption
-and
-electricity
-price.
-3.
-Energy
-availability
-dictates
-energy
-consumption.
-As
-for
-communication
-skills,
-I
-am
-fluent
-in
-written
-and
-verbal
-capacity
-in
-3
-languages:
-English,
-French
-and
-Bahasa
-Indonesia.
-I
-am
-confident
-in
-my
-ability
-in
-all
-3
-of
-these
-languages.
-I
-find
-myself
-to
-be
-a
-friendly
-person
-and
-am
-always
-happy
-to
-work
-in
-a
-diverse
-workplace.
-Allow
-me
-to
-reiterate
-my
-profound
-interest
-in
-this
-opportunity
-with
-the
-Asean
-Centre
-for
-Energy.
-I
-am
-always
-eager
-to
-learn
-more
-in
-depth
-about
-the
-energy
-sector;
-It
-would
-be
-an
-honor
-to
-be
-able
-to
-use
-my
-skills
-and
-knowledge
-to
-further
-ACE’s
-mission
-of
-driving
-energy
-growth
-in
-South
-Asia.
-I
-have
-always
-dreamed
-of
-working
-in
-an
-energy-related
-sector,
-especially
-in
-the
-context
-of
-the
-region
-of
-my
-home
-country.I
-look
-forward
-to
-hearing
-from
-you.
-Thank
-you
-very
-much
-for
-your
-time,
-attention
-and
-for
-considering
-my
-application.
-Best
-regards,
-Naufal
+UL23/0222 
+     CM3070 
+BSc EXAMINATION  
+COMPUT ER SCIENCE 
+Final Project  
+Release date : Tues day 7 March  2023 at 12:00 m idday  Greenwich Mean  Time  
+Submission date : Wednes day 8 March  2023 by 12:00 m idday  Greenwich Mean Time  
+Time allowed : 24 hours to submit  
+INSTRUCTION S TO CANDIDATES: 
+There are ﬁve questions in this examination paper. You should answer no more than 
+THREE  questions. Each question carries 20 marks. The marks for each part of a 
+question are indicated at the end of the part in [.] brackets.  
+There are 60 marks available on this paper. 
+You should complete submit your answers to this paper as one document , if possible, 
+in Microsoft Word or a PDF to the appropriate area on the VLE. Each file uploaded must 
+be accompanied by a coversheet containing your candidate number . In addition, your 
+answers must have your candidate number written clearly at the top of the page before 
+you upload your work. Do not write your name anywhere in your answers.  
+© University of London 202 3 
+Page 1 of 6Question 1 Background literature
+Y ou will have made use of many reference in doing your project. Choose
+the TWO most signiﬁcant references that you made use of, and explain:
+• what the main idea / point / research contribution of the reference is
+• why it was signiﬁcant to your project
+• how it inﬂuenced the choices you made in undertaking your project
+Also comment on the quality and reliability of the reference.
+For each reference, you should identify it by its title and authors, to the
+best of your recall. We are not expecting exact referencing here, but
+need enough information in order to identify the reference work. [20]
+Page 2 of 6UL23/0222   ���������������������������������������������Question 2 Self-reﬂection
+(a) Thinking about all aspects of conducting your project, what is the single
+most important lesson you have learned from the experience? Y our
+answer should focus on general skills you have developed, rather than
+something relating to speciﬁc technical details of this particular project.
+Give reasons for your answer. [6]
+(b) In the light of the experience you have gained, if you were to attempt
+another project of a similar size, in what ways would your approach differ
+from how you did things this time?
+Y our answer should include a discussion of TWO different aspects of the
+project. These may be chosen from the following list, although other
+aspects are acceptable too:
+• Deﬁning aims and objectives
+• Literature review
+• Project plan
+• Methodology
+• Project development
+• Testing and evaluation
+• Data analysis
+• Writing the project report
+For each of your chosen three aspects, explain what you felt were the
+weaknesses in your current project with regard to that aspect, and how
+you would intend to improve them in the new project. [14]
+Page 3 of 6���������Question 3 Outcomes
+(a) Identify TWO things within your project that you consider to be
+signiﬁcant. Y ou can think of this as the two things of which you are the
+most proud. For each, describe brieﬂy what it is, and explain and justify
+why you consider this to be one of the best things about your project. [14]
+(b) Consider any further work that might be appropriate for the project you
+have completed. This could be further developing aspects of your
+implementation, or doing further research work or data analysis, or
+redoing some of what you have done but using a different approach, or
+something else.
+Describe one such piece of further work, and then describe What advice
+would you give to a student who took this on to do a project of their own?
+The advice should focus on the topic itself, such as how to go about
+dealing with a speciﬁc further question you may have identiﬁed, rather
+than on conducting projects in general, such as time management. [6]
+Page 4 of 6���������Question 4 Presentation
+(a) It is possible to describe the results of a development project or piece of
+research in a number of different ways. For example, they can be
+presented visually, or they can be presented through descriptive text;
+there are also a variety of ot her ways.
+Note that for this question, the focus is on the results you described and
+discussed in your report.
+• Why is it important to present results, and in what ways can they be
+pre sented? Include in your discussion a description of how results
+are linked to the project aims, and to the conclusions. [8]
+• What way did you choose to present your own results? Discuss why
+you cho se the approach or approaches you did, and justify their
+appropriateness. Also discuss brieﬂy how your results link to your
+conclusions. [12]
+Page 5 of 6���������Question 5 Development
+Part of the process of doing your project would mean that you need to
+develop skills and ﬁnd out about areas that you did not already have or
+know about.
+Choose one subject area, and one skill, that you had to engage with or
+develop, in order to undertake your project.
+For each one of these:
+• describe the area or skill that you did not yet know about or have but
+needed to;
+• explain why, in the context of your project, you needed to develop this
+skill or engage with the subject area; and
+• explain how you went about acquiring the new skills and knowledge
+required to complete the project.
+[20]
+END OF PAPER
+Page 6 of 6 UL23/0222

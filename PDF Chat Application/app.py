@@ -10,14 +10,14 @@ from haystack.pipelines import ExtractiveQAPipeline
 
 # create sidebar
 with st.sidebar:
-    st.title("LLM Document Chat App")
+    st.title("LLM PDF Chat App")
     st.markdown('''
     ### About 
-    This app is an LLM-powered chatbot capable of answering user queries based on information in a given PDF file. Primarily based on Haystack v1.25 and presented using Streamlit.
+    This app is a relatively simple LLM-powered chatbot capable of answering user queries based on information in a given PDF file. Primarily based on Haystack v1.25's ExtractiveQAPipeline and presented using Streamlit.
                 
     ### Libraries
     - [Streamlit](https://streamlit.io/)
-    - [Haystack](https://haystack.deepset.ai/)
+    - [Haystack (v1.25)](https://haystack.deepset.ai/)
                 
     ### How it works:
     1. Takes a pdf
@@ -27,12 +27,12 @@ with st.sidebar:
     5. Process user query & display answer
     ''')
 
-    add_vertical_space(9)
+    add_vertical_space(7)
     st.write("Author: Muhammad Naufal Al Ghifari")
 
 
 def main():
-    st.header("Chat with your PDF🗣️📄")
+    st.header("Query your PDF🗣️📄")
     pdf = st.file_uploader("Upload your PDF", type="pdf")
     
     if pdf is not None:
@@ -86,7 +86,8 @@ def main():
                 score = ans.score
 
                 st.write(f"**Answer {i+1}**:\n{ans_text}")
-                st.write(f"**Context {i+1}**:\n{context}")
+                st.write(f"**Score**:\n{round(score*100, 2)}%")
+                st.write(f"**Context**:\n{context}")
                 st.markdown("""---""") 
 
 if __name__ == "__main__":
